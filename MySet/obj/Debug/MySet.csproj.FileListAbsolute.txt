@@ -1,0 +1,7 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\MySet\bin\Debug\MySet.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MySet\bin\Debug\MySet.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MySet\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MySet\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MySet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\MySet\obj\Debug\MySet.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MySet\obj\Debug\MySet.pdb

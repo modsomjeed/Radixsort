@@ -1,0 +1,13 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\PosfixInfix.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\PosfixInfix.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\MyList.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\Mystack.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\MyList.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\bin\Debug\Mystack.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\obj\x86\Debug\PosfixInfix.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\PosfixInfix\obj\x86\Debug\PosfixInfix.pdb
+C:\Users\KwangNoi\Desktop\kwang\PosfixInfix\obj\x86\Debug\PosfixInfix.exe
+C:\Users\KwangNoi\Desktop\kwang\PosfixInfix\obj\x86\Debug\PosfixInfix.pdb

@@ -1,0 +1,15 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\Solution.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\Solution.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MyList.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MyQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MySet.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\Mystack.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MyList.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MyQueue.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\MySet.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\bin\Debug\Mystack.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\obj\x86\Debug\Solution.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\Solution\obj\x86\Debug\Solution.pdb
