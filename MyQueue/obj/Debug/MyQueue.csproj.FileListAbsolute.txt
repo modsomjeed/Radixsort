@@ -1,0 +1,9 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\bin\Debug\MyQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\bin\Debug\MyQueue.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\bin\Debug\MyList.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\bin\Debug\MyList.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\obj\Debug\MyQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyQueue\obj\Debug\MyQueue.pdb

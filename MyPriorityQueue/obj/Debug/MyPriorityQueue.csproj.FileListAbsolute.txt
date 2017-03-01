@@ -1,0 +1,11 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyPriorityQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyPriorityQueue.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyList.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyList.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\bin\Debug\MyQueue.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\obj\Debug\MyPriorityQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyPriorityQueue\obj\Debug\MyPriorityQueue.pdb

@@ -1,0 +1,15 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyBinaryTree.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyBinaryTree.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyBinaryHeep.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyList.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyPriorityQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyQueue.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyBinaryHeep.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyList.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyPriorityQueue.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\bin\Debug\MyQueue.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\obj\Debug\MyBinaryTree.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyBinaryTree\obj\Debug\MyBinaryTree.pdb

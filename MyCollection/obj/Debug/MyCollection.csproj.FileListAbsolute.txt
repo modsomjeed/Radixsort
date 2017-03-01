@@ -1,0 +1,10 @@
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\MyCollection\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\MyCollection\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\MyCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\MyCollection\obj\Debug\MyCollection.dll
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\MyCollection\obj\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyCollection\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyCollection\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\MyCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\MyCollection\obj\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\MyCollection\obj\Debug\MyCollection.pdb
