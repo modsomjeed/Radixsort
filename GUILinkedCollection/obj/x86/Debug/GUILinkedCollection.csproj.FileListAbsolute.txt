@@ -1,0 +1,11 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\bin\Debug\GUILinkedCollection.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\bin\Debug\GUILinkedCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\obj\x86\Debug\GUILinkedCollection.Form1.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\obj\x86\Debug\GUILinkedCollection.Properties.Resources.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\obj\x86\Debug\GUILinkedCollection.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUILinkedCollection\obj\x86\Debug\GUILinkedCollection.pdb

@@ -1,0 +1,13 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\bin\Debug\GUISet.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\bin\Debug\GUISet.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\bin\Debug\MySet.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\bin\Debug\MySet.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\obj\x86\Debug\GUISet.Form1.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\obj\x86\Debug\GUISet.Properties.Resources.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\obj\x86\Debug\GUISet.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUISet\obj\x86\Debug\GUISet.pdb
