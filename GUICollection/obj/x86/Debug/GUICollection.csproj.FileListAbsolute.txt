@@ -1,0 +1,22 @@
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\bin\Debug\GUICollection.exe
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\bin\Debug\GUICollection.pdb
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.Form1.resources
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.Properties.Resources.resources
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.exe
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\bin\Debug\GUICollection.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\bin\Debug\GUICollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.Form1.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\obj\x86\Debug\GUICollection.Properties.Resources.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KwangNoi\Desktop\KwangKwang\GUICollection\obj\x86\Debug\GenerateResource.write.1.tlog

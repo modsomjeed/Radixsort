@@ -1,0 +1,14 @@
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\CPE\bin\Debug\CPE.exe
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\CPE\bin\Debug\CPE.pdb
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\CPE\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\CPE\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\CPE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\CPE\obj\x86\Debug\CPE.exe
+C:\Users\KwangNoi\Documents\Visual Studio 2010\Projects\KwangKwang\CPE\obj\x86\Debug\CPE.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\CPE\bin\Debug\CPE.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\CPE\bin\Debug\CPE.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\CPE\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\CPE\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\CPE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\CPE\obj\x86\Debug\CPE.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\CPE\obj\x86\Debug\CPE.pdb

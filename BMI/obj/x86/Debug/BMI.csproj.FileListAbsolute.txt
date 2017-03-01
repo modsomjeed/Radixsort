@@ -1,0 +1,7 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\BMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\BMI\bin\Debug\BMI.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\BMI\bin\Debug\BMI.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\BMI\obj\x86\Debug\BMI.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\BMI\obj\x86\Debug\BMI.pdb
+C:\Users\KwangNoi\Desktop\kwang\BMI\obj\x86\Debug\BMI.exe
+C:\Users\KwangNoi\Desktop\kwang\BMI\obj\x86\Debug\BMI.pdb

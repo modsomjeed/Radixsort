@@ -1,0 +1,13 @@
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\bin\Debug\GUIArrayList.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\bin\Debug\GUIArrayList.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\bin\Debug\MyCollection.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\bin\Debug\MyList.dll
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\bin\Debug\MyCollection.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\bin\Debug\MyList.pdb
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\obj\x86\Debug\GUIArrayList.GUIArrayList.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\obj\x86\Debug\GUIArrayList.Properties.Resources.resources
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\obj\x86\Debug\GUIArrayList.exe
+C:\Users\KwangNoi\Desktop\KwangKwang\GUIArrayList\obj\x86\Debug\GUIArrayList.pdb
